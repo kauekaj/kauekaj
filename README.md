@@ -5,5 +5,5 @@
 - 📕 I’m studying HTML, CSS, JavaScript, C#, SQL and Node.js
 - 🏫 I'm a System Analysis and Development student
 - 📫 How to reach me: @kauekaj
-- ⚡ I love Technology, Animes, Series and Books :)
+- ⚡ I love Technology, Animes, Series and Books
 
