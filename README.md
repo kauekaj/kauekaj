@@ -2,9 +2,9 @@
 
 
 - 💻 I’m currently looking for an opportunity to start my career as a Software Developer
-- 📕  HTML, CSS, JavaScript, C#, SQL and Node.js
+- 📕  HTML, CSS, JavaScript, PHP, GIT, SQL and Node.js
 - 🏫 I'm a System Analysis and Development student
-- ⚡ I love Technology, Animes, Series and Books
+- ⚡ I love Technology, Games and Animes 
 <br><br>
 
  🛠 &nbsp;Tech Stack 
