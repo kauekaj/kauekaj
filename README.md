@@ -1,7 +1,7 @@
 ## Hi There, I'm Kauê Jacyntho 👋
 
 
-- 💻 I’m currently looking for an opportunity to start my career as a Software Developer
+- 💻 Software Developer at Foursys
 - 📕  HTML, CSS, JavaScript, PHP, GIT, SQL and Node.js
 - 🏫 I'm a System Analysis and Development student
 - ⚡ I love Technology, Games and Animes 
