@@ -1,7 +1,7 @@
 ## Hi There, I'm Kauê Jacyntho 👋
 
 
-- 💻 Software Developer at Foursys
+- 💻 Software Developer Trainee at Foursys
 - 📕  HTML, CSS, JavaScript, PHP, GIT, SQL and Node.js
 - 🏫 I'm a System Analysis and Development student
 - ⚡ I love Technology, Games and Animes 
