@@ -16,7 +16,7 @@
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-7.jpg" alt="javascript" height="30" width="30" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" height="30" width="30" /></a>
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png" alt="bootstrap" height="30" width="30" /></a>
-<a href="https://unity.com/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="swift" height="30" width="30" /></a>
+<a href="https://https://developer.apple.com/swift//" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/214/214542.png" alt="swift" height="30" width="30" /></a>
 </p>
 <hr></hr>
 
