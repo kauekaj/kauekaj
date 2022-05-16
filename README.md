@@ -2,7 +2,7 @@
 
 
 - 💻 iOS Developer Trainee at Foursys
-- 📕  HTML, CSS, JavaScript, Swift, GIT, SQL and Node.js
+- 📕  HTML, CSS, JavaScript, Node.js, Swift, GIT, SQL
 - 🏫 I'm a System Analysis and Development student
 - 🎮 I love Technology, Games and Animes 
 <br><br>
