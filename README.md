@@ -1,7 +1,7 @@
 ## Hi There, I'm Kauê Jacyntho 👋
 
 
-- 💻 iOS Developer Trainee at Foursys
+- 💻 iOS Developer at Foursys
 - 📕  HTML, CSS, JavaScript, Node.js, Swift, GIT, SQL
 - 🏫 I'm a System Analysis and Development student
 - 🎮 I love Technology, Games and Animes 
