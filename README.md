@@ -23,7 +23,7 @@
 
 <br><br>
 
-[![Meu perfil DIO](https://img.shields.io/badge/Meu%20perfil-DIO-orange)](https://web.digitalinnovation.one/users/kauekaj?tab=achievements)  [![Meu perfil Rocketseat](https://img.shields.io/badge/Meu%20perfil-Rocketseat-%239933ff)](https://app.rocketseat.com.br/me/kauekaj) [![Gmail Badge](https://img.shields.io/badge/-kauekaj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauekaj@gmail.com)](mailto:kauekaj@gmail.com)
+[![Meu perfil DIO](https://img.shields.io/badge/Meu%20perfil-DIO-orange)](https://web.digitalinnovation.one/users/kauekaj?tab=achievements) [![Gmail Badge](https://img.shields.io/badge/-kauekaj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauekaj@gmail.com)](mailto:kauekaj@gmail.com)
 
 
 
