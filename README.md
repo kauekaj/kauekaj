@@ -4,7 +4,7 @@
 - 💻 iOS Developer at Foursys
 - 📕  HTML, CSS, JavaScript, Node.js, Swift, GIT
 - 🏫 I'm a System Analysis and Development student
-- 🎮 I love Technology, Games and Animes 
+- 🎮 I love Technology, Games and Animes
 <br><br>
 
 <h3 align="left">Technologies and Tools:</h3>
