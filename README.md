@@ -1,4 +1,4 @@
-## Hi There, I'm Kauê Jacyntho 👋
+## Hi There, I'm Kauê Jacyntho 
 
 
 - 💻 iOS Developer at Foursys
