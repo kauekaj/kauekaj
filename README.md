@@ -18,12 +18,12 @@
 <a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png" alt="bootstrap" height="30" width="30" /></a>
 </p>
 <hr></hr>
-<!-- 
+
 <div align="center">
   <a href="https://github.com/kauekaj">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauekaj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauekaj&layout=compact&langs_count=4&theme=dracula"/>
-</div> -->
+</div>
 
 
 <br><br>
