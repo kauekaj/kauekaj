@@ -1,8 +1,7 @@
 ## Hi There, I'm Kauê Jacyntho 
 
 
-- 💻 iOS Developer at Foursys
-- 🏫 System Analysis and Development student
+- 💻 iOS Developer at BEES
 - 🎮 I love Technology, Games and Animes
 <br><br>
 
