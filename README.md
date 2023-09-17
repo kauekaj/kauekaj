@@ -14,7 +14,6 @@
 <a href="https://www.w3schools.com/css/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" alt="css" height="30" width="30" /></a>
 <a href="https://www.javascript.com/" target="blank"><img align="center" src="https://icon-library.com/images/javascript-icon-png/javascript-icon-png-7.jpg" alt="javascript" height="30" width="30" /></a>
 <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="vscode" height="30" width="30" /></a>
-<a href="https://getbootstrap.com/" target="blank"><img align="center" src="https://www.digitalkure.com/wp-content/uploads/2019/01/bootstrap-1.png" alt="bootstrap" height="30" width="30" /></a>
 </p>
 <hr></hr>
 
