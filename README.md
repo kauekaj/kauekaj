@@ -22,7 +22,6 @@
 
 <br><br>
 
-style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauekaj@gmail.com)](mailto:kauekaj@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&Color=white)](https://www.linkedin.com/in/kauekaj//)
 
 
